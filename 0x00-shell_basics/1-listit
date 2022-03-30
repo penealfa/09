@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "The Contents of the current working directory is: ${ls}"
+echo "The Contents of the current working directory is: ${ls -l}"
